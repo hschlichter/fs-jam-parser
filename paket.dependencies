@@ -1,0 +1,10 @@
+source https://www.nuget.org/api/v2
+
+nuget FSharp.Core
+nuget FAKE
+nuget FParsec
+
+group Test
+    source https://nuget.org/api/v2
+    nuget FsUnit
+    nuget NUnit.Console

@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="JamParserLib.fs" />
+    <Compile Include="JsonParser.fs" />
     <None Include="Script.fsx" />
   </ItemGroup>
   <PropertyGroup>
